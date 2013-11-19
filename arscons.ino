@@ -1,4 +1,4 @@
-// This is just a mockup sketch for test scons works
+// A mockup sketch to demonstrate building using arscons.
 
 #define PIN_LED 13
 

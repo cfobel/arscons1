@@ -2,4 +2,5 @@
 .sconsign.dblite
 *.elf
 *.hex
+*.pyc
 build/
